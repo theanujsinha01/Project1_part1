@@ -1,4 +1,4 @@
-<h1> Resturant data analysis report</h1>
+<h1> Resturant data analysis report Part-1</h1>
 
 ![WhatsApp Image 2024-07-06 at 5 57 59 PM](https://github.com/theanujsinha01/Project1_part1/assets/136606032/df859546-d845-4cff-a522-aaf4634054f0)
 
